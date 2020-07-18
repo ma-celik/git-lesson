@@ -1,3 +1,5 @@
 first do something
-then do the other thing
 and finally finish it off
+now changing some lines
+red lines means its deleted
+and new lines are added u can see. 
